@@ -1,2 +1,2 @@
 # master
-Just another repository
+README.md
